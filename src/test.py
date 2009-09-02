@@ -3,5 +3,5 @@
 print("Hello world!")
 
 # aosuhouh
-print("Rawr!!!!")
+print("Rawr!!")
 
