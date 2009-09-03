@@ -1,8 +1,4 @@
-# Test file, take 2
-# More edits to test Git Extensions. Whoo
+# Test file, take 3
+# Git Extensions seems nice. Let's try a merge with it
 
 print("Hello world!")
-
-# aosuhouha
-#print("Rawr!!")
-print("Moo")
